@@ -1,0 +1,60 @@
+{
+	"Client_Player_Number" : 2,
+	"Player_1_Crown": 0,
+	"Player_1_has_passed": false,
+	
+	"Player_2_Crown": 0,
+	"Player_2_has_passed": false,
+	
+	"Mulligan": false,
+	"Round_number": 0,
+	"Active_Player": 0,
+	"Active_Opponent": 0,
+	"Game_Phase": "Mulligan",
+	"Card_has_been_played": 0,
+	"_power_comment": "Modification 2026-10-07: Added once-per-game Power tracking and public card counts; Motor also tracks round bonus and Stratagem use this turn.",
+	"Player_1_Power_Used": false,
+	"Player_1_Hand_Count": 0,
+	"Player_1_Deck_Count": 0,
+	"Player_1_Graveyard_Count": 0,
+	"Player_2_Power_Used": false,
+	"Player_2_Hand_Count": 0,
+	"Player_2_Deck_Count": 0,
+	"Player_2_Graveyard_Count": 0,
+	"Turn_number": 0,
+	"Last_Phases": [],
+	"Winner": 0,
+	"End_Reason": "",
+	"_turn_comment": "Modification 2026-09-27: Retain turn progress; removed Last_Command from player views, keeping it private in XXM.",
+
+	"Player_2_Graveyard": [],
+	"Player_2_Hand": [],
+	"Player_2_Front_Row": [],
+	"Player_2_Back_Row": [],
+
+	"Player_1_Graveyard": [],
+	"Player_1_Front_Row": [],
+	"Player_1_Back_Row": [],
+	
+	"Player_2_Front_Row_Strength": 0,
+	"Player_2_Back_Row_Strength": 0,
+	"Player_2_Board_Strength": 0,
+	
+	"Player_1_Front_Row_Strength": 0,
+	"Player_1_Back_Row_Strength": 0,
+	"Player_1_Board_Strength": 0,
+
+	"Dominance" : 0,
+	"Player 2 Auberon on Board" : false,
+	"Player_2_Front_Frost": 0,
+	"Player_2_Back_Frost": 0,
+	"Frost on 2 Rows in P2" : false,
+	"Frost Dmg on last 5 turns P2" : 0,
+	"Player 1 Auberon on Board" : false,
+	"Player_1_Front_Frost": 0,
+	"Player_1_Back_Frost": 0,
+	"Frost on 2 Rows in P1" : false,
+	"Frost Dmg on last 5 turns P1" : 0,
+
+	"Available_Commands" : []
+}
